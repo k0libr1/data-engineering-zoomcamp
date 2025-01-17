@@ -2,10 +2,10 @@
 
 week1 hw
 
-Question 1:
-docker build -t test:pip .
-docker run -it test:pip
-pip -V
+Question 1:<br>
+docker build -t test:pip .<br>
+docker run -it test:pip<br>
+pip -V<br>
 
 Question 2:
 postgres:5433
